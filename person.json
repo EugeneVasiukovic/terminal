@@ -1,0 +1,11 @@
+{     
+	"person_name":"Anton",
+	"person_age": "28",
+	"peson_devices": { 
+
+		"divice_1":"iphone 12 pro",
+		"device_2":"smasung A52"
+
+	}
+
+}
