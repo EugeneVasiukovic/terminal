@@ -1,0 +1,71 @@
+    1  a= 23
+    2  a= 23
+    3  a=23-7
+    4  print(23-7)
+    5  pwd
+    6  pwd
+    7  mkdir dir_1
+    8  cd dir_1
+    9  pwd
+   10  cd новая папка(2)
+   11  cd новая папка (2)
+   12  cd новая папка 2
+   13  pwd
+   14  cd -
+   15  mkdir -p {dir_2,dir_3}
+   16  ls
+   17  history
+   18  cd dir_1
+   19  touch {1.txt,2.txt,3.txt,4.json,5.json}
+   20  explorer
+   21  mkdir -p {dir_11,dir_22,dir_33,dir_4,dir_5}
+   22  ls
+   23  vim 1.txt
+   24  vim 1.txt
+   25  cd ..
+   26  ls
+   27  history
+   28  cd dir_1
+   29  ls
+   30   mv 2.txt, 3.txt dir_11/2.txt, 3.txt
+   31  mv 2.txt dir_11/2.txt
+   32  cd dir_11
+   33  ls
+   34  cd ..
+   35  mv 3.txt  dir_11
+   36  cd dir_11
+   37  ls
+   38  cp 2.txt dir1
+   39  cp 3.txt dir_1
+   40  cp 2.txt dir_1
+   41  find -name 2.txt
+   42  cd ..
+   43  cd ..
+   44  find -name 2.txt
+   45  grep  -a1 "fffff"
+   46  grep  -a1 "fffff" /dir_1/1.txt
+   47  grep  -A1 "fffff" /dir_1/1.txt
+   48  grep  -A1 "12" /dir_1/1.txt
+   49  grep  -A1 "12" /dir/dir_1/1.txt
+   50  history
+   51  cd dir_!
+   52  cd dir_1
+   53  grep  -A1 "12" /dir_1/1.txt
+   54  grep  -A1 "12" /1.txt
+   55  vim 1.txt
+   56  grep  -A1 "12" /dir_1/1.txt
+   57  grep  -An "12" /dir_1/1.txt
+   58  grep -A1 "1" /dir_1/1.txt
+   59  tail 1.txt
+   60  head 1.txt
+   61  date
+   62  curl 'http:/162.55.220.72:5005'
+   63  cat script.txt
+   64  cat > script.txt
+   65  cd ..
+   66  cat script.txt
+   67  cat > script.txt
+   68  cat > script.txt
+   69  mv script.txt script.sh
+   70  explorer .
+   71  history >> history.txt
