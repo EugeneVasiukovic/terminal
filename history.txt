@@ -1,4 +1,4 @@
-    1  a= 23
+1  a= 23
     2  a= 23
     3  a=23-7
     4  print(23-7)
@@ -46,26 +46,184 @@
    46  grep  -a1 "fffff" /dir_1/1.txt
    47  grep  -A1 "fffff" /dir_1/1.txt
    48  grep  -A1 "12" /dir_1/1.txt
-   49  grep  -A1 "12" /dir/dir_1/1.txt
-   50  history
-   51  cd dir_!
-   52  cd dir_1
-   53  grep  -A1 "12" /dir_1/1.txt
-   54  grep  -A1 "12" /1.txt
-   55  vim 1.txt
-   56  grep  -A1 "12" /dir_1/1.txt
-   57  grep  -An "12" /dir_1/1.txt
-   58  grep -A1 "1" /dir_1/1.txt
-   59  tail 1.txt
-   60  head 1.txt
-   61  date
-   62  curl 'http:/162.55.220.72:5005'
-   63  cat script.txt
-   64  cat > script.txt
-   65  cd ..
-   66  cat script.txt
-   67  cat > script.txt
-   68  cat > script.txt
-   69  mv script.txt script.sh
-   70  explorer .
-   71  history >> history.txt
+   49  #!/bin/bash
+   50  mkdir v1 v2 v3
+   51  cd v1
+   52  touch a1.txt a2.txt a3.txt j1.json j2.json
+   53  cd v2 
+   54  mkdir 11 12 13
+   55  cd dir_1
+   56  ls -la
+   57  mv a1.txt a2.txt v2/a1.txt a2txt[D[D[D.[Ctxt
+   58  echo ""[Ddone"
+   59  [A[3~[3~
+   60  #!/bin/bash
+   61  mkdir v1 v2 v3
+   62  cd v1
+   63  touch a1.txt a2.txt a3.txt j1.json j2.json
+   64  cd v2 
+   65  mkdir 11 12 13
+   66  cd dir_1
+   67  ls -la
+   68  mv a1.txt a2.txt v2/a1.txt a2txt[D[D[D.[Ctxt
+   69  echo ""[Ddone"
+   70  [A[3~[3~
+   71  #!/bin/bash
+   72  mkdir v1 v2 v3
+   73  cd v1
+   74  touch a1.txt a2.txt a3.txt j1.json j2.json
+   75  cd v2 
+   76  mkdir 11 12 13
+   77  cd dir_1
+   78  ls -la
+   79  mv a1.txt a2.txt v2/a1.txt a2txt[D[D[D.[Ctxt
+   80  echo ""[Ddone"
+   81  [A[3~[3~
+   82  #!/bin/bash
+   83  mkdir v1 v2 v3
+   84  cd v1
+   85  touch a1.txt a2.txt a3.txt j1.json j2.json
+   86  cd v2 
+   87  mkdir 11 12 13
+   88  cd dir_1
+   89  ls -la
+   90  mv a1.txt a2.txt v2/a1.txt a2txt
+   91  echo "done"
+   92  #!/bin/bash
+   93  mkdir v1 v2 v3
+   94  cd v1
+   95  touch a1.txt a2.txt a3.txt j1.json j2.json
+   96  cd v2 
+   97  mkdir 11 12 13
+   98  cd dir_1
+   99  ls -la
+  100  mv a1.txt a2.txt v2/a1.txt a2txt
+  101  echo "done"
+  102  #!/bin/bash
+  103  mkdir v1 v2 v3
+  104  cd v1
+  105  touch a1.txt a2.txt a3.txt j1.json j2.json
+  106  cd v2 
+  107  mkdir 11 12 13
+  108  cd dir_1
+  109  ls -la
+  110  mv a1.txt a2.txt v2/a1.txt a2txt
+  111  echo "done"
+  112  grep  -A1 "12" /dir/dir_1/1.txt
+  113  history
+  114  cd dir_!
+  115  cd dir_1
+  116  grep  -A1 "12" /dir_1/1.txt
+  117  grep  -A1 "12" /1.txt
+  118  vim 1.txt
+  119  grep  -A1 "12" /dir_1/1.txt
+  120  grep  -An "12" /dir_1/1.txt
+  121  grep -A1 "1" /dir_1/1.txt
+  122  tail 1.txt
+  123  head 1.txt
+  124  date
+  125  curl 'http:/162.55.220.72:5005'
+  126  cat script.txt
+  127  cat > script.txt
+  128  cd ..
+  129  cat script.txt
+  130  cat > script.txt
+  131  cat > script.txt
+  132  mv script.txt script.sh
+  133  explorer .
+  134  history >> history.txt
+  135  ssh root@162.55.220.72
+  136  git status
+  137  git push
+  138  git --global user.email "askarishwaine@gmail.com"
+  139  git config
+  140  git config --global 
+  141  git --global user.email "askarishwaine@gmail.com"
+  142  git config --list
+  143  git -h
+  144  git init -g
+  145  git stauts
+  146  git status
+  147  git push
+  148  [200~
+  149                            override the name of the initial branch
+  150      --object-format <hash>
+  151   git config remote.origin.url
+  152  git push
+  153  git push
+  154  git status
+  155  git push
+  156  git config --list --show-origin
+  157  ssh-keygen -t rsa -C "EugeneVasiukovic_Git_Hub"
+  158  git push
+  159  code SHA256:zFwHY4IBRwGQwCWz2FvGkm1bjeNE+7AQkTqkaho8x5I
+  160  git push
+  161  git init
+  162  git push -u original main
+  163  git push -u origin main
+  164  git remote add https://github.com/EugeneVasiukovic/terminal.git
+  165  git push -u origin main
+  166  git status
+  167  git push
+  168  git password 123
+  169  git push
+  170  git congig --global
+  171  git config --global
+  172  git config 
+  173  git --global user.email "askarishwaine@gmail.com"
+  174   git credential-cache exit
+  175  git clone https://github.com/EugeneVasiukovic/JSON.git
+  176  cd JSON
+  177  > new.json
+  178  git add .
+  179  git commit -m
+  180  git status
+  181  git h
+  182  git --help
+  183  git commit -m "home_work_GitBash"
+  184  git push
+  185  vim new.json
+  186  git status
+  187  git add .
+  188  git commit -m "homework_2"
+  189  git push
+  190  > preference.json
+  191  vim preference.json
+  192  > skils.json
+  193  vim skils.json
+  194  git status
+  195  git add.
+  196  git add .
+  197  git commit -m "Homework gitbush"
+  198  git push
+  199  git fetch
+  200  git pull
+  201  git status
+  202  git status
+  203  git add .
+  204  git commit -m "Homework bag_report.json"
+  205  git push
+  206  vim bag_report.json
+  207  git add .
+  208  git commit -m "Changes bag_report.json"
+  209  git push
+  210  history >> history.txt
+  211  cd ..
+  212  cd terminal
+  213  git status
+  214  git add .
+  215  git commit -m "history.txt"
+  216  git push
+  217  cd ..
+  218  cd json
+  219  vim README.md
+  220  git status
+  221  git add .
+  222  git commit -m "addendum readme"
+  223  git push
+  224  vim skils.json
+  225  git add skils.json
+  226  git commit -m "add info skils.json"
+  227  git push
+  228  cd ..
+  229  history >> history.txt
