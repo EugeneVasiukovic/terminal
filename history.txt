@@ -1,4 +1,4 @@
-1  a= 23
+    1  a= 23
     2  a= 23
     3  a=23-7
     4  print(23-7)
@@ -172,58 +172,231 @@
   172  git config 
   173  git --global user.email "askarishwaine@gmail.com"
   174   git credential-cache exit
-  175  git clone https://github.com/EugeneVasiukovic/JSON.git
-  176  cd JSON
-  177  > new.json
-  178  git add .
-  179  git commit -m
-  180  git status
-  181  git h
-  182  git --help
-  183  git commit -m "home_work_GitBash"
-  184  git push
-  185  vim new.json
-  186  git status
-  187  git add .
-  188  git commit -m "homework_2"
-  189  git push
-  190  > preference.json
-  191  vim preference.json
-  192  > skils.json
-  193  vim skils.json
-  194  git status
-  195  git add.
-  196  git add .
-  197  git commit -m "Homework gitbush"
-  198  git push
-  199  git fetch
-  200  git pull
-  201  git status
-  202  git status
-  203  git add .
-  204  git commit -m "Homework bag_report.json"
-  205  git push
-  206  vim bag_report.json
-  207  git add .
-  208  git commit -m "Changes bag_report.json"
-  209  git push
-  210  history >> history.txt
-  211  cd ..
-  212  cd terminal
-  213  git status
-  214  git add .
-  215  git commit -m "history.txt"
-  216  git push
-  217  cd ..
-  218  cd json
-  219  vim README.md
-  220  git status
-  221  git add .
-  222  git commit -m "addendum readme"
-  223  git push
-  224  vim skils.json
-  225  git add skils.json
-  226  git commit -m "add info skils.json"
-  227  git push
-  228  cd ..
-  229  history >> history.txt
+  175  vim READme.md
+  176  git add .
+  177  git commit -m "create readme"
+  178  git push
+  179  cd ..
+  180  cd termina;
+  181  cd terminal
+  182  explorer
+  183  cd ...
+  184  cd ..
+  185  cd ..
+  186  history >> history.txt
+  187  history >> history.txt
+  188  cp script.sh /[200~4 /d/DIR/group_33
+  189  $ cp script.sh /
+  190  cd .
+  191  cd github
+  192  cd terminal
+  193  git status
+  194  git add .
+  195  git commit -m "script"
+  196  git push
+  197  vim README.md
+  198  git add .
+  199  git commit -m "trrminal"
+  200  git push
+  201  vim README.md
+  202  git add .
+  203  git commit -m "readme"
+  204  git push
+  205  cd ..
+  206  git clone https://github.com/EugeneVasiukovic/SQL.git
+  207  cd SQL
+  208  vim README.md
+  209  git add .
+  210  git commit -m "readme"
+  211  git push
+  212  cd ..
+  213  cd TXT
+  214  git pull
+  215  cd ..
+  216  cd JSON
+  217  git pull
+  218  cd ..
+  219  cd XML
+  220  git pull
+  221  cd ..
+  222  git status
+  223  cd terminal
+  224  git status
+  225  git branch
+  226  open .
+  227  ls -ls
+  228  git branch samsung_pay
+  229  git branch
+  230  gut cheakout samsung_pay
+  231  git cheakout samsung_pay
+  232  git branch
+  233  git checkout samsung_pay
+  234  git branch
+  235  cat > names.txt
+  236  git add .
+  237  git commit -m "names"
+  238  git push
+  239  git status
+  240  git commit -m "names"
+  241  git push
+  242  git push --set-samsung_pay
+  243  git push samsung_pay
+  244  git checkout main
+  245  git push
+  246  git checkout samsung_pay
+  247  git push -u origin samsung_pay
+  248  git push
+  249  git checkout main
+  250  git pull
+  251  git fetch
+  252  git pull
+  253  cat names.txt
+  254  git checkout samsung_pay
+  255  git pull
+  256  cat names.txt
+  257  ls -ls
+  258  cd ..
+  259  git clone [200~$ mkdir
+  260  git clone https://github.com/EugeneVasiukovic/postman.git
+  261  mkdir Jmeter
+  262  mkdir Cheklist
+  263  mkdir bag_report
+  264  mkdir charles
+  265  mkdir Mobile_testing
+  266  git clone https://github.com/EugeneVasiukovic/SQL.git
+  267  git clone https://github.com/EugeneVasiukovic/Jmeter.git
+  268  git clone https://github.com/EugeneVasiukovic/CheckLists.git
+  269  git clone https://github.com/EugeneVasiukovic/Bag_Report.git
+  270  git clone https://github.com/EugeneVasiukovic/Bag_Reports.git
+  271  git clone https://github.com/EugeneVasiukovic/Charles.git 
+  272  git clone /github.com/EugeneVasiukovic/Charles.git
+  273  git clone https://github.com/EugeneVasiukovic/Mobile_testing.git
+  274  cd postman
+  275  git branch
+  276  git checkout postman
+  277  git branch postman
+  278  git checkout postman
+  279  git branch
+  280  > new.txt
+  281  git branch main
+  282  git merge postman
+  283  git status
+  284  git add . 
+  285  git commit -m "postman"
+  286  git push
+  287  git branch main
+  288  git checkout main
+  289  git add .
+  290  git commit -m "123"
+  291  git push
+  292  git chekout postman
+  293  git status
+  294  git push
+  295  git checkout postman
+  296  git status
+  297  git push
+  298  history >> history.txt
+  299  git push postman
+  300  git checkout main
+  301  git push main
+  302  git push --set main
+  303  git push -u origin postman
+  304  git push main
+  305  git push -u origin main
+  306  git status
+  307  git pull
+  308  cd ..
+  309  cd Bag_Reports
+  310  cd >> new.txt
+  311  fd
+  312  ls- la
+  313  ls-ls
+  314  ls -ls
+  315  cd D:\DIR\group_33\GitHub\Bag_Reports
+  316  git branch bag_reports
+  317  git checkout bag_reports
+  318  > bag_report.json
+  319  vim bag_report
+  320  git status
+  321  git add ..
+  322  git add .
+  323  git status
+  324   git commit -m "bag report"
+  325  git push -u origin bag_reports
+  326  git chekout main
+  327  git checkout main
+  328  git merge bag_reports
+  329  git status
+  330  cd ..
+  331  cd CheckLists
+  332  git branch chek_list
+  333  git checkout chek_;ist
+  334  git brench chek_list
+  335  git branch
+  336  git checkout chek_list
+  337  > chek_list
+  338  > chek_list.md
+  339  vim chek_list.md
+  340  git status
+  341  git add .
+  342  git commit -m "ferst commit"
+  343  git push -u origin chek_list
+  344  git checkout ьфшт
+  345  git checkout main
+  346  git merge chek_list
+  347  git status
+  348  cd ..
+  349  cd JSON
+  350  git pull
+  351  git pull
+  352  git pull
+  353  git clone https://github.com/EugeneVasiukovic/test.git
+  354  git clone https://github.com/EugeneVasiukovic/learning-english.git
+  355  cd lerning-english
+  356  cd learning-english
+  357  vim READMI.md
+  358  vim README.md
+  359  vim README.md
+  360  git add .
+  361  git commit -m "pronoun"
+  362  git push
+  363  git pell
+  364  git pull
+  365  git clone https://github.com/EugeneVasiukovic/Testing_theory.git
+  366  cd Testing_theory
+  367  > Client_server_architecture.md
+  368  git status
+  369  git add .
+  370  git  status
+  371  git commit -m "Client server"
+  372  git push
+  373  git add .
+  374  git commit -m "1st commit testing theory"
+  375  git push
+  376  get pull
+  377  git pull
+  378  git pull
+  379  git pull
+  380  get pull
+  381  git pu;;
+  382  git pull
+  383  git pull
+  384  git pull
+  385  git pull
+  386  git pull
+  387  git pull
+  388  git pull
+  389  hit pull
+  390  git pull
+  391  git pull
+  392  git pull
+  393  git pull
+  394  git pull
+  395  history
+  396  cd ..
+  397  cd..
+  398  cd ..
+  399  ls -ls
+  400  cd /GitHub
+  401  cd .
+  402  history >> history.txt
