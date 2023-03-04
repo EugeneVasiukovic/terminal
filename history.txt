@@ -1,20 +1,3 @@
-    1  a= 23
-    2  a= 23
-    3  a=23-7
-    4  print(23-7)
-    5  pwd
-    6  pwd
-    7  mkdir dir_1
-    8  cd dir_1
-    9  pwd
-   10  cd новая папка(2)
-   11  cd новая папка (2)
-   12  cd новая папка 2
-   13  pwd
-   14  cd -
-   15  mkdir -p {dir_2,dir_3}
-   16  ls
-   17  history
    18  cd dir_1
    19  touch {1.txt,2.txt,3.txt,4.json,5.json}
    20  explorer
@@ -362,41 +345,156 @@
   362  git push
   363  git pell
   364  git pull
-  365  git clone https://github.com/EugeneVasiukovic/Testing_theory.git
-  366  cd Testing_theory
-  367  > Client_server_architecture.md
-  368  git status
-  369  git add .
-  370  git  status
-  371  git commit -m "Client server"
-  372  git push
-  373  git add .
-  374  git commit -m "1st commit testing theory"
-  375  git push
-  376  get pull
-  377  git pull
-  378  git pull
-  379  git pull
-  380  get pull
-  381  git pu;;
-  382  git pull
+  365  git status
+  366  git add .
+  367  git commit -m "New history"
+  368  git push
+  369  git checkout main
+  370  git merge samsung_pay
+  371  git clone https://github.com/EugeneVasiukovic/Testing_theory.git
+  372  cd Testing_theory
+  373  > Client_server_architecture.md
+  374  git status
+  375  git add .
+  376  git  status
+  377  git commit -m "Client server"
+  378  git push
+  379  git add .
+  380  git commit -m "1st commit testing theory"
+  381  git push
+  382  get pull
   383  git pull
   384  git pull
   385  git pull
-  386  git pull
-  387  git pull
+  386  get pull
+  387  git pu;;
   388  git pull
-  389  hit pull
+  389  git pull
   390  git pull
   391  git pull
   392  git pull
   393  git pull
   394  git pull
-  395  history
-  396  cd ..
-  397  cd..
-  398  cd ..
-  399  ls -ls
-  400  cd /GitHub
-  401  cd .
-  402  history >> history.txt
+  395  hit pull
+  396  git pull
+  397  git pull
+  398  git pull
+  399  git pull
+  400  git pull
+  401  history
+  402  cd ..
+  403  cd..
+  404  cd ..
+  405  ls -ls
+  406  cd /GitHub
+  407  cd .
+  408  history >> history.txt
+  409  git status
+  410  git add .
+  411  git commit -m "Home Work 1st"
+  412  git push
+  413  fit add . 
+  414  git add . 
+  415  git commit -m "test "
+  416  git push
+  417  cd ..
+  418  cd ..
+  419  mkdir dir_1
+  420  cd dir_1
+  421  mkdir inner_dir_1
+  422  pwd
+  423  > tf_1.txt
+  424  cat > tf_2.txt
+  425  cat tf_2.txt
+  426  cd inner_dir_1
+  427  cat > tf_3.txt
+  428  cat >> tf_3.txt
+  429  cat >> tf_3.txt
+  430  cat >> tf_3.txt
+  431  cat tf_3
+  432  cat tf_3.txt
+  433  cat >> /d/DIR/group_33/dir_1/tf_2.txt
+  434  cat >> tf_3.txt
+  435  cat >> /d/DIR/group_33/dir_1/tf_2.txt
+  436  cat > tf_4.txt
+  437  cat > tF5.txt
+  438  ls -la
+  439  cd ..
+  440  cat /d/DIR/group_33/dir_1/inner_dir_1/tf_3.txt
+  441  find pwd -name tf_4.txt
+  442  find -name tf_4.txt
+  443  realpath tf_4.txt
+  444  > tf_4.txt
+  445  echo -n >./inner_dir_1/tf_4.txt 
+  446  find -name "*tf*"
+  447  find -iname "*tf*"
+  448  grep "sec" *
+  449  grep -i "sec" *
+  450  grep -w "sec" *
+  451  grep -iw "sec" *
+  452  grep "second" *
+  453  grep -i "second" *
+  454  grep -r "second" 
+  455  grep "second" *
+  456  grep second *
+  457  grep second 
+  458  grep "second" .
+  459  grep "second" dir_1
+  460  grep "second" *
+  461  grep -l "second" *
+  462  grep -l "second" 
+  463  grep -l "second" .
+  464  grep -l "second" *
+  465  grep -lr "second" *
+  466  grep -lR "second" *
+  467  grep -le "second" *
+  468  grep -le "second" /d/DIR/group_33/dir_1
+  469  grep -l "second" /d/DIR/group_33/dir_1
+  470  grep  "second" /d/DIR/group_33/dir_1
+  471  grep -r "second" /d/DIR/group_33/dir_1
+  472  grep -lr "second" /d/DIR/group_33/dir_1
+  473  grep -l "second" /d/DIR/group_33/dir_1
+  474  grep -lR "second" /d/DIR/group_33/dir_1
+  475  grep -le "second" *
+  476  grep -le "second" /d/DIR/group_33/dir_1
+  477  grep -l -e -r "second" /d/DIR/group_33/dir_1
+  478  grep -l -e "second" *
+  479  grep -l -e -r "second" *
+  480  grep -lR "second" /d/DIR/group_33/dir_1
+  481  grep -lR "second" '/d/DIR/group_33/dir_1/'
+  482  grep -l "second" '/d/DIR/group_33/dir_1/'
+  483  grep -lrw "second" '/d/DIR/group_33/dir_1/'
+  484  grep -lrw -e "second" '/d/DIR/group_33/dir_1/'
+  485  grep -lr -e "second" '/d/DIR/group_33/dir_1/'
+  486  grep -lrv -e "second" '/d/DIR/group_33/dir_1/'
+  487  grep -lrv '/d/DIR/group_33/dir_1/' -e "second"
+  488  grep -l '/d/DIR/group_33/dir_1/' -e "second"
+  489  grep -l '/d/DIR/group_33/dir_1/'  "second"
+  490  grep -lr '/d/DIR/group_33/dir_1/' -e "second"
+  491  grep -lr * -e "second"
+  492  grep -lr /d/DIR/group_33/dir_1/ -e "second"
+  493  grep -lrv /d/DIR/group_33/dir_1/ -e "second"
+  494  tl -n4 tf_2.txt
+  495  tl n4 tf_2.txt
+  496  tail n4 tf_2.txt
+  497  tail -n4 tf_2.txt
+  498  tail -h4 tf_2.txt
+  499  tail -head4 tf_2.txt
+  500  tail head -n4 tf_2.txt
+  501  tail head -n5 tf_2.txt
+  502  tail head -n4 tf_2.txt
+  503  head -n4 tf_2.txt
+  504  mkdir dir_2; cd dir_2; cat > new.txt
+  505  cd ..; mv tf_2.txt dir_2
+  506  cd dir_2; cp tf_2.txt dir_1
+  507  cd dir_2; cp tf_2.txt /../dir_1/
+  508  cd dir_2; cp tf_2.txt /d/DIR/group_33/dir_1
+  509  cd ..
+  510  cd dir_2; cp tf_2.txt /d/DIR/group_33/dir_1
+  511  cd ..; grep -ir "sec" *; 
+  512  echo Good job
+  513   grep -ir "sec" * > /d/DIR/group_33/dir_1/321.txt
+  514  grep -lrIZ "sec" . | xargs -0 rm -f --
+  515  echo GOOD JOB
+  516  history
+  517  history >> history.txt
