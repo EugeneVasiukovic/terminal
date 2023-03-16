@@ -1,7 +1,7 @@
 1) Посмотреть где я  				
 pwd ;
 2) Создать папку 				
-mkdir hw1_lvika_terminal ;
+mkdir terminal ;
 3) Зайти в папку 				
 cd terminal ;
 4) Создать 3 папки				
